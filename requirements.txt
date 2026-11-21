@@ -1,0 +1,3 @@
+# Core (this is all Streamlit Community Cloud needs)
+streamlit>=1.40,<2
+pandas>=2.0
