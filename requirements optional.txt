@@ -1,0 +1,4 @@
+# Optional upgrades - the app runs fine without them
+faster-whisper>=1.0     # speech-to-text (Hindi/Urdu/Tamil/English) - heavy, run locally
+gTTS>=2.5               # spoken replies (needs internet)
+anthropic>=0.40         # Claude tool-calling for richer language understanding
